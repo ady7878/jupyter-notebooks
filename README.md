@@ -6,6 +6,8 @@ This repo is an archive of Jupyter Notebooks I reference in [my blog](https://yd
 
 Feel free to fork them or point out mistakes!
 
+## Quantitative Finance Projects
+
 ## Letterboxd Data Scraper
 
 ## Letterboxd Film Recommender (In Progress) 
